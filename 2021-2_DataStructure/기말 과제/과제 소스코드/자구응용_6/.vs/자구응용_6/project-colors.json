@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "24c48fb5-f728-4f47-8080-cbdd85aa8d52": {
+      "ProjectGuid": "24c48fb5-f728-4f47-8080-cbdd85aa8d52",
+      "DisplayName": "자구응용_6",
+      "ColorIndex": 0
+    },
+    "1d29e97a-1517-4de3-996c-28b9244cee8f": {
+      "ProjectGuid": "1d29e97a-1517-4de3-996c-28b9244cee8f",
+      "DisplayName": "자구응용_6-2",
+      "ColorIndex": 1
+    },
+    "903aeab6-4019-4049-a9b1-ecc861d2de8d": {
+      "ProjectGuid": "903aeab6-4019-4049-a9b1-ecc861d2de8d",
+      "DisplayName": "자구응용_6-3",
+      "ColorIndex": 2
+    },
+    "c0b87616-284c-48c3-abf5-2e504ff1983b": {
+      "ProjectGuid": "c0b87616-284c-48c3-abf5-2e504ff1983b",
+      "DisplayName": "자구응용_6-4",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

@@ -1,0 +1,4 @@
+﻿  소스.c
+C:\Users\lsmls\Desktop\조별문제-2\ㅇ\소스.c(61,9): warning C4101: 'node' :참조되지 않은 지역 변수입니다.
+C:\Users\lsmls\Desktop\조별문제-2\ㅇ\소스.c(60,9): warning C4101: 'num' :참조되지 않은 지역 변수입니다.
+  ㅇ.vcxproj -> C:\Users\lsmls\Desktop\조별문제-2\x64\Debug\ㅇ.exe

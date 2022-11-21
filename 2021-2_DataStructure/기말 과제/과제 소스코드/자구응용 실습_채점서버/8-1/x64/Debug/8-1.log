@@ -1,0 +1,9 @@
+﻿  8-1.c
+C:\Users\lsmls\Desktop\자료구조 기말\소스코드\자구응용 실습_채점서버\8-1\8-1.c(46,9): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\lsmls\Desktop\자료구조 기말\소스코드\자구응용 실습_채점서버\8-1\8-1.c(99,20): warning C4244: '함수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\lsmls\Desktop\자료구조 기말\소스코드\자구응용 실습_채점서버\8-1\8-1.c(110,20): warning C4244: '함수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\lsmls\Desktop\자료구조 기말\소스코드\자구응용 실습_채점서버\8-1\8-1.c(138,17): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\lsmls\Desktop\자료구조 기말\소스코드\자구응용 실습_채점서버\8-1\8-1.c(185,21): warning C4244: '함수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\lsmls\Desktop\자료구조 기말\소스코드\자구응용 실습_채점서버\8-1\8-1.c(192,33): warning C4244: '함수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\lsmls\Desktop\자료구조 기말\소스코드\자구응용 실습_채점서버\8-1\8-1.c(197,21): warning C4244: '함수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  8-1.vcxproj -> C:\Users\lsmls\Desktop\자료구조 기말\소스코드\자구응용 실습_채점서버\x64\Debug\8-1.exe

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7ac33e0d-0341-4b38-98fd-93c04d00db15": {
+      "ProjectGuid": "7ac33e0d-0341-4b38-98fd-93c04d00db15",
+      "DisplayName": "자구응용_4",
+      "ColorIndex": 0
+    },
+    "518f44fe-cab0-43bf-9f63-0acaa6b20e6d": {
+      "ProjectGuid": "518f44fe-cab0-43bf-9f63-0acaa6b20e6d",
+      "DisplayName": "자구응용_4-2",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

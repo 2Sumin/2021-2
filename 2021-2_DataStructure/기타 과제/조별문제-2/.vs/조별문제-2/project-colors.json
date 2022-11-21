@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8402f734-3e5e-451b-9e93-4fcb4dd7685d": {
+      "ProjectGuid": "8402f734-3e5e-451b-9e93-4fcb4dd7685d",
+      "DisplayName": "조별문제-2",
+      "ColorIndex": 0
+    },
+    "23a67c66-29c0-4fd5-a7e7-7a2a672a7b56": {
+      "ProjectGuid": "23a67c66-29c0-4fd5-a7e7-7a2a672a7b56",
+      "DisplayName": "조별 문제 다시",
+      "ColorIndex": 1
+    },
+    "f6113bf0-b984-4f8d-b797-1486d0d5f588": {
+      "ProjectGuid": "f6113bf0-b984-4f8d-b797-1486d0d5f588",
+      "DisplayName": "ㅇ",
+      "ColorIndex": 2
+    },
+    "d7978748-9207-4860-aefe-4f44178a04a1": {
+      "ProjectGuid": "d7978748-9207-4860-aefe-4f44178a04a1",
+      "DisplayName": "ㄴ",
+      "ColorIndex": 3
+    },
+    "e52dfa05-dbad-47ee-8fde-d2effa361efe": {
+      "ProjectGuid": "e52dfa05-dbad-47ee-8fde-d2effa361efe",
+      "DisplayName": "s",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

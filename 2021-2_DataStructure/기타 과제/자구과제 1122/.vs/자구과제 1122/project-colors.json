@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "eb6fac53-1755-45f2-9389-aa2755f0a6aa": {
+      "ProjectGuid": "eb6fac53-1755-45f2-9389-aa2755f0a6aa",
+      "DisplayName": "1122-2",
+      "ColorIndex": 0
+    },
+    "f4c018cb-4206-4853-be2c-2f1c5477330a": {
+      "ProjectGuid": "f4c018cb-4206-4853-be2c-2f1c5477330a",
+      "DisplayName": "1122-1",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
